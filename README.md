@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pijarpq
 - 👀 I’m interested in software engineer and machine learning 
 - 🌱 I’m currently learning c++ 
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on instagram @pijarpq_
 
 <!---
