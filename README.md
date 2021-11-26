@@ -1,6 +1,6 @@
 Hi, my name is Pijar Pahlawan \
 I'm Indonesian student \
-I’m interested in software engineer and machine learning \ 
+I’m interested in software engineer and machine learning \
 I’m currently learning c++ \
 You can reach me on instagram @pijarpq_ 
 <!---
